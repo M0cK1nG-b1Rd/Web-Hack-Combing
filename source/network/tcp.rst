@@ -45,4 +45,4 @@ TCP采用拥塞控制算法来减少或者避免拥塞现象的发生，TCP的�
 - `RFC 5681 TCP Congestion Control <https://tools.ietf.org/html/rfc5681>`_
 - `TCP congestion control wiki <https://en.wikipedia.org/wiki/TCP_congestion_control>`_
 
-.. |statetransition| image:: ../images/tcp-state-transition-diagram.gif
+.. |statetransition| image:: ../images/tcp-state-transition-diagram.png
